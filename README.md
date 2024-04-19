@@ -7,4 +7,4 @@
 2. Navigate to the project directory: cd Http5225-assignment3
 
 ## Live Website
-![screenshot](_readme/Screenshot-1-2024-04-19-Lara LMS.png)
+![screenshot](/_readme/Screenshot-1-2024-04-19-Lara LMS.png)
