@@ -34,5 +34,5 @@
 ![screenshot](_readme/Screenshot-8-2024-04-19-Lara-LMS.png)
 
 ### Product deleted successfully
-![screenshot](_readme/Screenshot-8-2024-04-19-Lara-LMS.png)
+![screenshot](_readme/Screenshot-9-2024-04-19-Lara-LMS.png)
 
